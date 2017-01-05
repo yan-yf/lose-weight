@@ -2,3 +2,13 @@
 3KM: OK
 weight: 90kg
 time :2pm
+
+2017.1.4
+3KM: OK
+weight: 89.8kg
+time: 7.00am
+
+2017.1.5
+3KM: OK
+weight: 89.6kg
+time: 7.00am
